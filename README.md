@@ -31,13 +31,13 @@ An AI-powered Career Advisor built using **Python, Flask, and Google's Gemini AP
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshot/home.png)
 
 ---
 
 ### AI Generated Career Roadmap
 
-![Career Roadmap](screenshots/result.png)
+![Career Roadmap](screenshot/result.png)
 
 ---
 
