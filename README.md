@@ -79,21 +79,7 @@ Open
 http://127.0.0.1:5000
 ```
 
----
 
-## 📂 Project Structure
-
-```
-ai-career-advisor
-│
-├── app.py
-├── requirements.txt
-├── runtime.txt
-├── .gitignore
-└── README.md
-```
-
----
 
 ## 👨‍💻 Author
 
